@@ -26,6 +26,7 @@
 * [Pandas in Action](https://www.manning.com/books/pandas-in-action)
 * [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages)
 * [Let's Talk Python](https://www.manning.com/books/lets-talk-python) - Unique Python beginners guide written especially for young people.
+* [Twisted Python Projects](https://www.manning.com/books/twisted-python-projects) - A book that helps you take your next steps in Python by creating offbeat projects you’ll love to code.
 
 ### Python Books
 
