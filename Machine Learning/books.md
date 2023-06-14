@@ -22,3 +22,4 @@ Human-in-the-Loop Machine Learning | https://www.manning.com/books/human-in-the-
 Machine Learning Bookcamp | https://www.manning.com/books/machine-learning-bookcamp
 Feature Engineering Bookcamp | https://www.manning.com/books/feature-engineering-bookcamp
 Managing Machine Learning Projects: From design to deployment | https://www.manning.com/books/managing-machine-learning-projects
+Fight Fraud with Machine Learning | https://www.manning.com/books/fight-fraud-with-machine-learning
